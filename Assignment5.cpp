@@ -161,7 +161,7 @@ int main() {
     s.printStudent();
 
     cout << "\nStudent with parameters:";
-    Student s1(3, 100, "DAC", 21, 8, 2025, 21, 8, 2029);  // corrected constructor
+    Student s1(3, 100, "DAC", 21, 8, 2025, 21, 8, 2029);  
     s1.printStudent();
 
     cout << "\nStudent with user input:";
